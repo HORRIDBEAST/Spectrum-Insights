@@ -1,5 +1,3 @@
 ﻿# Spectrum-Insights
-Developed an AI-based model for predicting Autism Spectrum Disorder (ASD) in individuals based on demo
-graphic and clinical data|, achieving an accuracy of 87%.– :Applied Synthetic Minority Oversampling Technique (SMOTE) to address class imbalance, improving model
- performance by 20% in detecting ASD cases.– :Implemented multiple classification models, including Decision Trees, Random Forest, and XGBoost, with hyper
-parameter tuning using RandomizedSearchCV, resulting in a 95% cross-validation accuracy for the best model.– :Deployed the model on Streamlit, providing a user-friendly interface for quick and reliable predictions, with over 15 users
+This is an AI-based model, named SpectrumInsights, to predict Autism Spectrum Disorder (ASD) in individuals based on demographic and clinical data, with the reported accuracy of 87% for the model. SMOTE (Synthetic Minority Oversampling Technique) was applied for the problem of class imbalance during which it improved the ASD detection rates by 20%. Many classification models like Decision Trees, Random Forest, and XGBoost were developed as part of the project, and hyperparameter tuning was performed using RandomizedSearchCV, resulting in the best model achieving a 95% cross-validation accuracy. The model is deployed in Streamlit offering a user-friendly interface ensuring rapid and reliable predictions in relation to ASD.
+
